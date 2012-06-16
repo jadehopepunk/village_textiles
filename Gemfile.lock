@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/olivierbuffon/spree-stock-manager.git
+  revision: ee29386dcabe3bd69b32bed73557c95ee210daad
+  specs:
+    spree_stock_manager (1.1.0)
+      spree_core (~> 1.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -216,4 +223,5 @@ DEPENDENCIES
   rails (= 3.2.2)
   sass-rails (~> 3.2.3)
   spree (>= 1.1.1)
+  spree_stock_manager (>= 1.1.0)!
   uglifier (>= 1.0.3)

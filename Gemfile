@@ -37,3 +37,4 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 gem 'spree', '>= 1.1.1'
+gem 'spree_stock_manager', '>= 1.1.0', :git => 'https://github.com/olivierbuffon/spree-stock-manager.git'
