@@ -13,3 +13,4 @@
 
 //= require_tree .
 //= require store/spree_stock_manager
+//= require store/spree_imagezoom

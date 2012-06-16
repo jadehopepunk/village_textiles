@@ -1,4 +1,11 @@
 GIT
+  remote: git://github.com/kunalchaudhari/spree_imagezoom.git
+  revision: cc0d1810b3c77a454f7cacd88ee2032813ccf891
+  specs:
+    spree_imagezoom (1.1.1)
+      spree_core (~> 1.1.1)
+
+GIT
   remote: https://github.com/olivierbuffon/spree-stock-manager.git
   revision: ee29386dcabe3bd69b32bed73557c95ee210daad
   specs:
@@ -223,5 +230,6 @@ DEPENDENCIES
   rails (= 3.2.2)
   sass-rails (~> 3.2.3)
   spree (>= 1.1.1)
+  spree_imagezoom!
   spree_stock_manager (>= 1.1.0)!
   uglifier (>= 1.0.3)
